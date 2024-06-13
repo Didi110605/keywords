@@ -10,7 +10,7 @@
 
 - npm i
 
-- npm install
+- npm start
 
 ## Запуск фронтенд части
 
